@@ -10,8 +10,8 @@
 
 3. Commit and push:
 
-`git add .`
-`git commit -m "mensaje"`
-`git push origin feature/nombre`
+`git add .`<br>
+`git commit -m "mensaje"`<br>
+`git push origin feature/nombre`<br>
 
 4. Make a Pull Request to the main branch
